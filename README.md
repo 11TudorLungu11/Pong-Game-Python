@@ -4,7 +4,7 @@
 
 This project is a classic Pong game developed in Python using the Pygame library.
 
-The game features both Singleplayer and Multiplayer modes, multiple match lengths and a simple menu system for game navigation. It was created as a university project to practice object-oriented programming, game logic and event handling.
+The game features both Singleplayer and Multiplayer modes, multiple match lengths and a simple menu system for game navigation. It was created to practice object-oriented programming, game logic and event handling.
 
 ---
 
